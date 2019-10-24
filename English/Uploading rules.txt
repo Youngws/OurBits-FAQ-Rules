@@ -1,0 +1,89 @@
+Please respect the rules, and if you have any questions about something unclear or not understandable, please [url=contactstaff.php]consult the staff[/url]. Staff reserves the rights to adjudicate.
+
+[b]GENERAL[/b]
+        [*]Make sure your torrents are well-seeded.
+            [*]You need to seed till 5 people else completes,
+            [*]If nobody download, you need to seed for at least 48 hours,
+            [*]If you purposely keep a low uploading speed, you can be warned and your privilege to upload can be removed.
+        [*]You would get 2 times as much of uploading credit for torrents uploaded by yourself.
+        [*]If you have something interesting that somehow violates these rules, [url=contactstaff.php]ask the staff[/url] with a detailed description and we might make an exception.
+
+[b]PRIVILEGE[/b]
+        [*]Everyone can upload.
+        [*]However, some must go through the [url=offers.php]Offer section[/url]. See [url=faq.php#22]FAQ[/url] for details.
+
+[b]ALLOWED CONTENTS[/b]
+        [*]High Definition (HD) videos, including
+                [*]complete HD media, e.g. Blu-ray disc (3D Blu-rays are only allowed as ISOs), HD DVD disc, etc. or remux,
+                [*]captured HDTV streams,
+                [*]encodes from above listed sources in HD resolution (at least 720p),
+                [*]untouched stream from video sites.
+        [*]Standard Definition (SD) videos, only untouched DVD.
+
+[b]NOT ALLOWED CONTENTS[/b]
+        [*]Releases from following groups: FRDS, FGT
+        [*]DVDRip, CNDVDRip.
+        [*]Upscaled/partially upscaled in Standard Definition mastered/produced content.
+        [*]RealVideo encoded videos (usually contained in RMVB or RM), flv files.
+        [*]Individual samples (to be included in the "Main torrent").
+        [*]RAR, etc. archived files.
+        [*]Dupe releases. (see beneath for dupe rules.)
+        [*]Taboo or sensitive contents (such as porn or politically sensitive topics).
+        [*]Damaged files, i.e. files that are erroneous upon reading or playback.
+        [*]Spam files, such as viruses, trojans, website links, advertisements, torrents in torrent, etc., or irrelevant files.
+        [*]File(s) encoded from a medium of WEBDL.
+        [*]WEBRip file(s).
+
+[b]Dupe rules: both quality and speed make sense! [color=red][i]Come into force on 2018/11/17.[/i][/color][/b]
+        To ensure the integrity of the OurBits system, the internal groups have priority in the DUPE rules.
+     [*]If internal groups haven't released, the DUPE rules are executed as follows:
+                 [*]Episode: After a season is completed, episode(s) is no longer allowed to upload.
+                 [*]WEB-DL: Only raw video, audio and subtitle track(s) can be contained. Only one edition is reseved in the same quality.
+                 [*]REMUX: REMUX files that do not contain any Chinese or English subtitles are not allowed. Only one edition is reseved in the same quality.
+                 [*]Capture: Only one edition is reseved in the same quality.
+                 [*]DVD: DVD5 and DVD9 only.
+                 [*]Encode: Only one torrent of Scene release and P2P release is reseved respectively for each edition. 
+Considering our members' distribution, we will reseve the edition with a matched Chinese subtitle/audio. Encodes in different editions don't DUPE each other. Only one torrent is reseved in the same quality for each edition. 
+Different editions mean extended, theater, CC , 4K remaster edition, etc.
+                 [*]Untouched BDs in different editions don't DUPE each other. Only one torrent is reseved for each edition.
+                 [*]CUSTOM BD: Only one edition is reserved, and it must contain Chinese subtitle or audio track(s).
+     [*]If internal groups have released, the duplication ends directly, please do not upload any torrents in the same quality. 
+     [*]If your file(s) is indeed an exception, don't hesitate to PM staff.
+
+[b]PACKING RULES [color=red](ANY PACK VIOLATING THE RULES WILL BE DELETE DIRECTLY)[/color][/b]
+        ONLY the following contents are allowed to be packed in principle:
+        [*]HD movie collections sold as box set (e.g. [i]The Ultimate Matrix Collection Blu-ray Box[/i]).
+        [*]Complete season of TV Series/TV shows/animes, can only upload in a single season.
+        [*]Documentaries on the same specific subject matter.
+        [*]Animes, character songs, dramas, etc. that are released in separate volumes.
+        [*]Packed video contents must be from media of the same type (e.g. Blu-ray discs), in the same resolution standard (e.g. 720p), and encoded in the same video and audio codec (e.g. x264 and flac). However, trailer are exceptions. Moreover, a collection should be released from the same group. Corresponding individual torrents can be removed upon packing, depending on actual situation.
+        If you are not clear of anything about packing, please [url=contactstaff.php]consult the staff[/url]. Staff reserve all the rights to interpret and deal with packing-related issues.
+
+[b]TORRENT INFORMATION[/b]
+        All torrents shall have descriptive titles, necessary descriptions and other information. 
+        [*]Title
+                [*]Movies/Concert[color=red]/Anime/Docu.[/color]: [i]Name [Year] [Cut] [Release Info] Resolution Source [Audio/]Video Codec-Tag[/i]
+                      e.g. [i]The Magnificent Nine 2016 720p Blu-ray x.264 DTS-OurBits[/i]
+                [*]TV Series/Mini-serie[color=red]/TV show/Anime[/color]: [i]Name [Year] S**E** [Release Info] Resolution Source [Audio/]Video Codec-Tag[/i]
+                      e.g. [i]Always With You 2018 S01E23 1080p HDTV H.264 AAC-iLoveTV[/i]
+                [color=red][*]Sport: [i]Name.YYYYMMDD.AWAY.VS.HOME.Resolution Source [Audio/]Video Codec-Tag[/i]
+                      e.g. [i]Always With You 2018 E23 1080p HDTV H.264 AAC-iLoveTV[/i][/color]
+        [*]Small description
+                [*]No advertisements or asking for a reseed/requests. Can also leave it blank.
+        [*]External Info
+                [*]External URL for Movies and TV shows. IMDB and Douban links are required (if available).
+        [*]Description
+                [*]For Movies, TV Series/Mini-series and animes:
+                        [*]Adding detailed file information regarding format, runtime, codec, bitrate, resolution, language, subtitle, etc. is encouraged.
+                [*]For Sports:
+                        [*]Don't spoil the results trough text/screenshots/filenames/obvious filesize/detailed runtime.
+                [*]Screenshots: At least 3 original screenshots or thumbnails with original link are required for each torrent.
+                [*]Info: 
+                        [*]BDinfo for Blu-ray discs and mediainfo for other videos are required.
+                        [*]Parsed info is strongly encouraged in description, however, original info is still required and irreplacable.
+                        [*]Quoting info with [img]https://www.picgd.com/images/2019/02/16/elUyR.png[/img] is encouraged for the reason that info is very long generally.
+        [*]NOTES
+                [*]Moderators will edit the torrent info according to the standard.
+                [*]Do NOT remove or alter changes done by the staff (but some mistakes can be fixed by the uploader).
+                [*]Torrents without required information can be deleted, depending on how they meet the standard.
+                [*]The original torrent information can be used if it basically meets the standard.

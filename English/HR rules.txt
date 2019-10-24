@@ -1,0 +1,9 @@
+Hit and Run (aka HnR, H&R) is a term used to denote the act of uploading or snatching a torrent and not seeding it for an adequate period of time. The following items are valid for all members except [color=green][b]VIP[/color][/b].
+[list]
+[*]This rule is invalid for torrents that have been uploaded for more than 30 days.
+[*]Once you have downloaded at least 10% of a torrent you must seed for at least 48 hours within a 2 week period or until you have seeded out at least one full copy, which means ratio is over 1.0. 
+[*]You will get a HR warning if fail to meet the requirements.
+[*]It takes 10,000 bouns to remove a HR warning.
+[*]Your account get disabled when there are 10 HR warning.
+[*]This rule is not valid for VIP users.
+[/list]

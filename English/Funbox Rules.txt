@@ -1,0 +1,12 @@
+[*]Users can submit anything funny (e.g. stories, pictures, flash, video) except things that is pornographic, taboo, political sensitive or forbidden by local laws.
+[*]Normally a newly-submitted funbox item would be outdated after 24 hours. However, if there are 20 or more votes on a funbox item, among which votes for 'funny' is less than 25%, the funbox item would be outdated ahead of its due time.
+[*]New funbox item can be submitted [b]only[/b] when the old one is outdated.
+[*]User, whose funbox item is voted as [b]funny[/b], would be rewarded based on the following rules:
+           [*]More than 25 votes, among which votes for [i]funny[/i] exceed 50%. User gets 5 bonus.
+           [*]More than 50 votes, among which votes for [i]funny[/i] exceed 50%. User gets another 5 bonus.
+           [*]More than 100 votes, among which votes for [i]funny[/i] exceed 50%. User gets another 5 bonus.
+           [*]More than 200 votes, among which votes for [i]funny[/i] exceed 50%. User gets another 5 bonus.
+           [*]More than 25 votes, among which votes for [i]funny[/i] exceed 75%. User gets 10 bonus.
+           [*]More than 50 votes, among which votes for [i]funny[/i] exceed 75%. User gets another 10 bonus.
+           [*]More than 100 votes, among which votes for [i]funny[/i] exceed 75%. User gets another 10 bonus.
+           [*]More than 200 votes, among which votes for [i]funny[/i] exceed 75%. User gets another 10 bonus.

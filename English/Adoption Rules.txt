@@ -1,0 +1,20 @@
+[the adoption system is not perfect, it is not effective, and the effective time will be announced]
+
+What does "adoption" mean? It means that you adopt a torrent then you should seed it for a long term to keep it alive.
+1. All members can adopt torrents.
+2. A torrents can be adopted by 10 members at most.
+3. You must seed the torrents you adopted for at least 300 hours per month, or uipload more than 10 times the size of this torrents.
+4. System will caiculate seedtime and upload of last month on the first day net month.
+5. If you didn't meet up the requirements, you will lose the right to adopt this torrents.
+6. If you meet up the requirements, you will get bonus and the right to adopt it continuely.
+7. You can abandon a torrent you have adopted, but you have to pay 500 bonus for per torrent.
+
+Reward Standard
+
+1. Adopting torrents that has been released for less than 1 month will not be rewarded, even you meet the requirements. Torrents smaller than 2GB will not be rewarded.
+2. Two kinds of torrents:
+    2.1 Internal releases: torrents of PbK, OurBits, OurTV, OurPad and HosT.
+    2.2 Normal releases: all torrents except internal relaeses.
+3. Bonus rewards
+    3.1 800 bonus for normal releases per month.
+    3.2 1500 bonus for internal releases per month

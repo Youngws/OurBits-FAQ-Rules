@@ -1,0 +1,35 @@
+[list][*]Do not do things we forbid.
+[*]Do not spam.
+[*]Cherish your user account. Inactive accounts would be deleted based on the following [/list]
+rules:
+              1.[b]Veteran User[/b] or above would never be deleted.
+              2.[b]Elite User[/b] or above would never be deleted if packed (at [url=usercp.php?action=personal]User CP[/url]).
+              3.Parked accounts would be deleted if users have not logged in for more than 400 days in a row.
+              4.Unparked accounts would be deleted if users have not logged in for more than 150 days in a row.
+              5.Accounts with both uploaded and downloaded amount being 0 would be deleted  7 days later.
+[*]User with the following behaviors will get account banned:
+              1. Use automatic scripts or tools on the site which would affect the site or tracker.
+              2. Have ideas to violate the rules and be sure to take into action, out of self-protection, we will disable the account manually.
+              3. Had violation, cheating, or trading behaviors in other trackers.
+              4. Only download but don’t seed, even if did not reach the warning deadline, may also be manually banned by the administrator.
+              5. Upload torrents categorized as Adult Video or porn video.
+              6. Upload exclusive torrents to other sites, or seed exclusive torrents without any download, under which circumstance we regard you are seeding without a full copy, in other words, cheating.
+              7. Upload torrents to BT sites, profitable websites, forums, or off-line download with network disk, Thunder and so on.
+              8. Upload torrents of team HosT to konor.net.
+              9. change or remove the name of releaser or release team.
+              10. Use original audios, videos or subtitles of internal team without authorization.
+              11. Send advertising links, promotional links or abuse others in comment area and forum area.
+              12. Caused controversy on purpose, in an attempt to destroy the OurBits’ reputation.
+              13. Negatively comment on OurBits in pulic. If you have any opinions or suggestion, please contact staff.
+              14. Exchange or sell account or invite. Sell video.
+              15. Earn upload credit, download credit, bonus points, or pass the assessment instead of others.
+              16. Rumor about, maliciously comment on, or abuse staff members.
+              17. For any reason, register for the second account or above (can only recover last account by accepting new assessment or donation).
+              18. The third time warned.
+              19. Once in the site was banned due to violation.
+              20. Accounts would be banned if download over 50GB but ratio below 0.3.
+              21. Automatically banned by system. For breaking upload speed limit, you can be re-enabled up to 3 times.
+              22. Leech a lot but rarely seed. No matter how much your ratio is.
+              23. Other behaviors that staff team regard harmful or use OurBits as a means of profitability.
+This rule come into force on 2017-11-18.
+Final explaination right reserved!

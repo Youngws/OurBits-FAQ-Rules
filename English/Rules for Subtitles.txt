@@ -1,0 +1,29 @@
+(This text is translated from the Chinese version. In case of discrepancy, the original version in Chinese shall prevail.)
+
+[b]GENERAL PRINCIPLE:[/b]
+    [*]All subtitles uploaded must conform to the rules (i.e. proper or qualified). Unqualified subtitles will be deleted.
+    [*]Allowed file formats are srt/ssa/ass/cue/zip/rar.
+    [*]If you're uploading Vobsub (idx+sub) subtitles or subtitles of other types, or a collection (e.g. subtitles for a season pack of some TV series), please zip/rar them before uploading.
+    [*]Cue sheet of audio tracks is allowed as well. If there are several cue sheets, please pack them all.
+    [*]Uploading lrc lyrics or other non-subtitle/non-cue files is not permitted. Irrelevant files if uploaded will be directly deleted.
+
+[b]QUALIFYING SUBTITLE/CUE FILES: improper subtitle/cue files will be directly deleted.[/b]
+    In any of the following cases, a subtitle/cue file will be judged as improper:
+    [*]Fail to match the corresponding torrent.
+    [*]Fail to be in sync with the corresponding video/audio file.
+    [*]Packed Improperly.
+    [*]Contain irrelevant or spam stuff.
+    [*]Encoded incorrectly.
+    [*]Wrong cue file.
+    [*]Wrong language mark.
+    [*]The title is indefinite or contains redundant info/characters.
+    [*]Duplicate.
+    [*]Reported by several users and confirmed with other problems.
+    [b]The staff group reserves rights to judge and deal with improper subtitles.[/b]
+    Please refer to [url=http://www.nexushd.org/forums.php?action=viewtopic&forumid=13&topicid=2848][i]this thread[/i][/url] in the forum for detailed regulations on qualifying subtitle/cue files, other notes and suggestions on uploading subtitles, and subtitle naming and entitling guidance.
+
+[b]IMPLEMENTING REGULATIONS OF REWARDS AND PENALTIES [/b]
+    [*]Reporting against improper subtitles and the uploaders who purposely upload improper subtitles is always welcomed. To report an improper subtitle, please click on the [i]REPORT[/i] button of the corresponding subtitle in the subtitle section. To report a user, please click on the [i]REPORT[/i] button at the bottom of the user details page.
+    [*]The reporter will be rewarded 50 karma points (delivered in three days) for each case after confirmation.
+    [*]Improper subtitles will be deleted and the corresponding uploader will be fined 100 karma points in each case.
+    [*]Users who recklessly uploading improper subtitles for karma points or other purposes, or users who maliciously report, will be fined karma points or warned depending on the seriousness of the case.

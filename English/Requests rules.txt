@@ -1,0 +1,19 @@
+[b]Guide[/b][list]
+[*] Quality: you can specify the medium, codec and resolution, otherwise it suggests that you have no requirements for these parameters.
+[*] Title: we recommend using “Chines-title English-title (Year)” (do not include quotes) as the title, however “English-title (Year)” is also acceptable.
+[*] Short description: write your requirements briefly, such as extended edition, 3D edition, English subtitle and so on.
+[*]External URL: IMDb or Douban link for your requesting torrent.
+[*]Description: Be as specific as possible in your request when you submit for the first time. It’s impolite to make a request with no info and then deny someone trying to fill it. It's unfair to the person filling and anyone who added bonus. You can be warned for this reason.[/list]
+[b]Rules[/b][list]
+[*]Do not make a request that violates upload rules.
+[*]Do not request multiple torrents in a single request.
+[*]Do not make a request for already existing torrent. Add bonus to that torrent and say thanks directly.
+[*]Do not abuse the request system. This includes making requests/increasing bonus to assist friends, etc. Otherwise you can be disabled for abusing and cheating.
+[*]Do not make a request that is clearly impossible to meet the requirements. We regard that this behavior is disrupting order.
+[*]Please pay a reasonable bonus for your request.
+[*]Accept or reject for a compelling reasons in the comments as soon as possible if someone try to fill your request. If requester doesn’t make a decision, you can PM staff to judge.[/list]
+[b]Rewards[/b][list]
+[*]To submit a new movie request, you should pay no less than 10000,the episode is set to a minimum of 2000.
+[*]To add reward, each time you can add no less than 1000, no more than 50000.
+[*]You need to pay 200 bonus fee each time when you make a addition.
+[*]You need to pay at least 10000 bonus for each Blu-ray disc in your request.[/list]
