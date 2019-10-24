@@ -30,6 +30,8 @@ rules:
               20. Accounts would be banned if download over 50GB but ratio below 0.3.
               21. Automatically banned by system. For breaking upload speed limit, you can be re-enabled up to 3 times.
               22. Leech a lot but rarely seed. No matter how much your ratio is.
-              23. Other behaviors that staff team regard harmful or use OurBits as a means of profitability.
+			  23. Access this site with public or shared proxies/VPN.
+			  24. Account is compromised and 2FA is not enabled.
+              25. Other behaviors that staff team regard harmful or use OurBits as a means of profitability.
 This rule come into force on 2017-11-18.
 Final explaination right reserved!
