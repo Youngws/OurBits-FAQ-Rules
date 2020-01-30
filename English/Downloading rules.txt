@@ -1,9 +1,8 @@
-[list]
 [*]Low ratios may result in severe consequences, including banning accounts. See [url=faq.php#22]FAQ[/url].
 [*]Rules for torrent promotion:
-[*]Raw Blu-ray Discs will be time-limited [color=#f0cc00][b]Free Leech[/b][/color].
-[*]First episode of every season of TV Series, etc. will be [color=#f0cc00][b]Free Leech[/b][/color].
-[*]Highly popular torrents will be on promotion (decided by admins).
-[*]On special occasions, we would set the whole site [color=#f0cc00][b]Free Leech[/b][/color]. Grab as much as you can. :mml:  :mml:  :mml:
+    [*]Torrents uploaded by internal groups OurBits, PbK, OurTV, iLoveTV, FLTTH, Ao, MGs, OurPad, HosT and iLoveHD will be time-limited [color=#f0cc00][b]Free[/b][/color].
+    [*]Original contents will be time-limited [color=#f0cc00][b]Free[/b][/color].
+    [*]First episode of every season of TV Series, etc. will be [color=#f0cc00][b]Free[/b][/color].
+    [*]Highly popular torrents will be on promotion (decided by admins).
+[*]On special occasions, we would active globally [color=#f0cc00][b]Free[/b][/color]. Grab as much as you can. :mml:  :mml:  :mml:
 [*]You may [b]only[/b] use allowed bittorrent clients at [site][/site]. See [url=faq.php#29]FAQ[/url].
-[/list]
