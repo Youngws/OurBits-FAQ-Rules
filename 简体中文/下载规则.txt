@@ -1,7 +1,7 @@
 [*]过低的分享率会导致严重的后果，包括禁止帐号。详见[url=faq.php#22]常见问题[/url]。
 [*]种子促销规则：
         [*]官方组OurBits、PbK、OurTV、iLoveTV、FLTTH、Ao、MGs、OurPad、HosT和iLoveHD发布的资源将成为“[color=#f0cc00][b]限时免费[/b][/color]”并获得限时置顶。
-		[*]原创资源将成为“[color=#f0cc00][b]限时免费[/b][/color]”，如果发布者是[color=red]Uploader[/color]等级，该资源将会被自动限时置顶。
+		[*]原创资源将成为“[color=#f0cc00][b]限时免费[/b][/color]”，如果发布者是[color=red][b]Uploader[/b][/color]等级，该资源将会被自动限时置顶。
         [*]电视剧等每季的第一集将成为“[color=#f0cc00][b]免费[/b][/color]”。
         [*]关注度高的种子将被设置为促销（由管理员定夺）。
         [*]我们会不定期开启全站[color=#f0cc00][b]免费[/b][/color]。
